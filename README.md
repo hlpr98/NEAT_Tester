@@ -1,7 +1,7 @@
 # NEAT_Tester
 Automated Software Tester using NEAT Algorithm
 ---
-Here is the implimentation of [this paper](https://github.com/hlpr98/NEAT_Tester/blob/master/The%20Paper.pdf).
+This repository impliments the algorithm in [this paper](https://github.com/hlpr98/NEAT_Tester/blob/master/The%20Paper.pdf).
 
 ## Running the software
 
