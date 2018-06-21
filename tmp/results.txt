@@ -1,0 +1,3 @@
+Name                        Stmts   Miss Branch BrPart  Cover   Missing
+-----------------------------------------------------------------------
+TestingApp/TriangleApp.py      16      1      8      0    96%   8
